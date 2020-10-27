@@ -1,0 +1,6 @@
+# Directed graph: ./../../../dolphins_kronecker/kronecker_graph_dolphins_2.txt 
+# Kronecker Graph: seed matrix [0.9284 0.5276; 0.5233 0.0759]
+# Nodes: 2 Edges: 2
+# FromNodeId	ToNodeId
+0	0
+0	1
