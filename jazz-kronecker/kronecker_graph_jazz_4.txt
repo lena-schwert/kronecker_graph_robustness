@@ -1,0 +1,8 @@
+# Directed graph: ./../../../Jazz_kronecker/kronecker_graph_jazz_4.txt 
+# Kronecker Graph: seed matrix [0.9284 0.5276;0.5233 0.07591]
+# Nodes: 4 Edges: 4
+# FromNodeId	ToNodeId
+0	0
+0	2
+2	0
+2	1
