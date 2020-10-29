@@ -8,7 +8,7 @@ Our project analyzed Kronecker graphs based on the Jazz and Dolphin networks of 
 
 ## Context of the project
 
-This group project (see contributors) was conducted as part of the coursework of my Masters degree (Management & Data Science) in the summer term 2019. The task was to extend the Martin & Niemeyer (2019) paper by conducting the analysis described above.
+This group project (with [GururajDesai](https://github.com/GururajDesai), [conybear18](https://github.com/conybear18) and [BordrickJay](https://github.com/BordrickJay)) was conducted as part of the coursework of my Masters degree (Management & Data Science) in the summer term 2019. The task was to extend the Martin & Niemeyer (2019) paper by conducting the analysis described above.
 
 ## References
 
